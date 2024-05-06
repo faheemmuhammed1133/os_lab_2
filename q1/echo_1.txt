@@ -1,1 +1,0 @@
-this file can be run by first changing the permission using chmod 777 file.sh , then ./file.sh
